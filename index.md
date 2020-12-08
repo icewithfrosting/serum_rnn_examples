@@ -5,7 +5,14 @@ title: SerumRNN Audio Examples
 
 <hr style="border:1px solid white">
 
-#### Sections:
+#### Target Audio Selection Process
+
+For each preset in each preset group (16 presets total), 20 random audio samples with 2 to 5 random effects applied are generated.\
+One example is then selected for each preset as the target audio such that the resulting examples are unique and collectively showcase a variety of different effect parameters and sounds.
+
+<hr style="border:1px solid white">
+
+#### Sections
 
 [Advanced Modulating Shapes Preset Group](#advanced-modulating-shapes-preset-group)
 
@@ -23,22 +30,27 @@ title: SerumRNN Audio Examples
 #### `SY Busy Lines `Preset Example
 
 `Target:` Distortion `->` EQ `->` Phaser
+<!-- <img align="right" width="100" height="100" src="sound_icon.png"> -->
 
 assets/audio_examples/advanced_modulating_shapes/sq_busy_lines_ex/target__distortion_eq_phaser.wav
 
 `Step 0:` Initial Audio
+<!-- <img align="right" width="100" height="100" src="sound_icon.png"> -->
 
 assets/audio_examples/advanced_modulating_shapes/sq_busy_lines_ex/00__init.wav
 
 `Step 1:` Distortion
+<!-- <img align="right" width="100" height="100" src="sound_icon.png"> -->
 
 assets/audio_examples/advanced_modulating_shapes/sq_busy_lines_ex/01__distortion.wav
 
 `Step 2:` Distortion `->` Phaser
+<!-- <img align="right" width="100" height="100" src="sound_icon.png"> -->
 
 assets/audio_examples/advanced_modulating_shapes/sq_busy_lines_ex/02__distortion_phaser.wav
 
 `Step 3:` Distortion `->` Phaser `->` EQ 
+<!-- <img align="right" width="100" height="100" src="sound_icon.png"> -->
 
 assets/audio_examples/advanced_modulating_shapes/sq_busy_lines_ex/03__distortion_phaser_eq.wav
 
