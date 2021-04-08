@@ -7,7 +7,7 @@ title: SerumRNN Audio Examples
 
 #### [Christopher Mitcheltree](https://christhetree.com/) (1, 2) and [Hideki Koike](https://www.vogue.cs.titech.ac.jp/koike) (1)
 
-#### 1 - [Tokyo Institute of Technology](https://www.vogue.cs.titech.ac.jp/top), 2 - [Qosmo Inc](https://qosmo.jp/en/)
+1 - [Tokyo Institute of Technology](https://www.vogue.cs.titech.ac.jp/top), 2 - [Qosmo Inc](https://qosmo.jp/en/)
 
 #### [Link to Full Paper](https://christhetree.com/evomusart_2021.pdf)
 
@@ -15,7 +15,7 @@ title: SerumRNN Audio Examples
 
 #### Target Audio Selection Process
 
-For each preset in each preset group (16 presets total), 20 random audio samples with 2 to 5 random effects applied are generated.\
+For each preset in each preset group (12 presets total), 20 random audio samples with 2 to 5 random effects applied are generated.\
 One example is then selected for each preset as the target audio such that the resulting examples are unique and collectively showcase a variety of different effect parameters and sounds.
 
 <hr style="border:1px solid white">
