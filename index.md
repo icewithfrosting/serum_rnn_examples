@@ -3,14 +3,13 @@ layout: page
 title: SerumRNN Audio Examples
 ---
 
-EvoMUSART 2021
+#### EvoMUSART 2021
 
-[Christopher Mitcheltree](https://christhetree.com/) (1, 2) and [Hideki Koike](https://www.vogue.cs.titech.ac.jp/koike) (1)
+#### [Christopher Mitcheltree](https://christhetree.com/) (1, 2) and [Hideki Koike](https://www.vogue.cs.titech.ac.jp/koike) (1)
 
-1. Tokyo Institute of Technology, 2. [Qosmo Inc](https://qosmo.jp/en/)
+#### 1 - [Tokyo Institute of Technology](https://www.vogue.cs.titech.ac.jp/top), 2 - [Qosmo Inc](https://qosmo.jp/en/)
 
-[Link to Full Paper](https://christhetree.com/evomusart_2021.pdf)
-
+#### [Link to Full Paper](https://christhetree.com/evomusart_2021.pdf)
 
 <hr style="border:1px solid white">
 
