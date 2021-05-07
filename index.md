@@ -3,7 +3,7 @@ layout: page
 title: SerumRNN Audio Examples
 ---
 
-#### EvoMUSART 2021
+<!--#### EvoMUSART 2021-->
 
 #### [Christopher Mitcheltree](https://christhetr.ee/) (1, 2) and [Hideki Koike](https://www.vogue.cs.titech.ac.jp/koike) (1)
 
